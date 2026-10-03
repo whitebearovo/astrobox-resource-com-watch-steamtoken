@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Steam token watch">
+  <g id="steam-token-mark" fill="none" stroke="#7B5B3C" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 72V48a12 12 0 0 1 12-12h24a12 12 0 0 1 12 12v24"/>
+    <rect x="80" y="72" width="96" height="112" rx="24"/>
+    <path d="M104 184v24a12 12 0 0 0 12 12h24a12 12 0 0 0 12-12v-24"/>
+    <path d="M100 122v12m14-12v12m14-12v12m14-12v12m14-12v12"/>
+  </g>
+</svg>

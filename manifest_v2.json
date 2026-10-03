@@ -1,0 +1,114 @@
+{
+  "item": {
+    "id": "com.watch.steamtoken",
+    "restype": "quick_app",
+    "name": "Steam令牌",
+    "description": "在手腕上方便的接受steam令牌\n需要通过修改版steam来提取令牌",
+    "preview": [
+      "media/螢幕擷取畫面 2026-10-03 154804.png"
+    ],
+    "icon": "media/logo.svg",
+    "cover": "media/logo-preview.png",
+    "author": [
+      {
+        "name": "mahirusaikou",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "导入插件",
+      "url": "https://whitebearsuki.lanzoue.com/iWsV24ar428b",
+      "icon": "AddressBook"
+    },
+    {
+      "title": "修改版steam下載",
+      "url": "https://whitebearsuki.lanzoue.com/iH6fV4ar44gb",
+      "icon": "ThreadsLogo"
+    }
+  ],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.watch.steamtoken.debug.1.1.2.rpk",
+      "versionCode": 4
+    },
+    "xmb11": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.watch.steamtoken.debug.1.1.2.rpk",
+      "versionCode": 4
+    },
+    "xmb11nfc": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.watch.steamtoken.debug.1.1.2.rpk",
+      "versionCode": 4
+    },
+    "xmb10nfc": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.watch.steamtoken.debug.1.1.2.rpk",
+      "versionCode": 4
+    },
+    "xmb10": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.watch.steamtoken.debug.1.1.2.rpk",
+      "versionCode": 4
+    },
+    "xmrw6": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.watch.steamtoken.debug.1.1.2.rpk",
+      "versionCode": 4
+    },
+    "xmrw5xring": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.watch.steamtoken.debug.1.1.2.rpk",
+      "versionCode": 4
+    },
+    "xmrw5": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.watch.steamtoken.debug.1.1.2.rpk",
+      "versionCode": 4
+    },
+    "xmb9": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.watch.steamtoken.debug.1.1.2.rpk",
+      "versionCode": 4
+    },
+    "xmb9p": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.watch.steamtoken.debug.1.1.2.rpk",
+      "versionCode": 4
+    },
+    "xmws3": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.watch.steamtoken.debug.1.1.2.rpk",
+      "versionCode": 4
+    },
+    "xmws4xring": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.watch.steamtoken.debug.1.1.2.rpk",
+      "versionCode": 4
+    },
+    "xmws441": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.watch.steamtoken.debug.1.1.2.rpk",
+      "versionCode": 4
+    },
+    "xmws4": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.watch.steamtoken.debug.1.1.2.rpk",
+      "versionCode": 4
+    },
+    "xmws541": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.watch.steamtoken.debug.1.1.2.rpk",
+      "versionCode": 4
+    },
+    "xmws5": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.watch.steamtoken.debug.1.1.2.rpk",
+      "versionCode": 4
+    }
+  },
+  "ext": {}
+}
